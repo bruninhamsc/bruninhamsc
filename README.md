@@ -53,7 +53,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 <summary><b>📱 Mobile</b></summary>
 <br>
 
-![Habilidade ainda não obtida].
+Habilidade ainda não obtida.
 
 </details>
 
@@ -63,8 +63,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto | Preview Online | Tecnologias Usadas |
 | :--- | :---: | :--- |
-| **Link na Bio** | [🔗 Ver online]([https://seu-link.com](https://bruninhamsc.github.io/Link-Na-Bio/) | HTML / CSS / JS |
-| **Projeto EcoSort** | [🔗 Ver online]([https://seu-link.com](https://github.com/bruninhamsc/Projeto-EcoSort.git) | Node.js / Express / MySQL |
+| **Link na Bio** | [🔗 Ver online]([https://seu-link.com](https://bruninhamsc.github.io/Link-Na-Bio/) | HTML / CSS |
+| **Projeto EcoSort** | [🔗 Ver online]([https://seu-link.com](https://github.com/bruninhamsc/Projeto-EcoSort.git) |  Flowgorithm |
 
 ---
 
