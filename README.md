@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Efeito de Digitação Animado -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+GitHub%2C+Web+e+Mobile;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+GitHub%2C+Web+e+Mobile;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 <br><br>
 
