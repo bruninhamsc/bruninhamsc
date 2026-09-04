@@ -73,8 +73,8 @@ Habilidade ainda não obtida.
 - 🎓 Atualmente estudo no **SESI Guarulhos - Senai Guarulhos-Hermenegildo Campos de Almeida.**
 - 💻 Estou aprendendo **HTML, CSS, JavaScript** e por fora do curso estou estudando **C++ e Java.**
 - 🎯 Meu objetivo é **ser Engenheira de software ou Arquiteta.**
-- 📚 Gosto de aprender sobre ****
-- ✝ Orí mi rí íyẹn émi kó rí...
+- 📚 Gosto de aprender sobre **Tecnologia, programação, arquitetura, história, cultura e diversos outros.**
+- 📿 Orí mi rí íyẹn émi kó rí...
 
 <br>
 
