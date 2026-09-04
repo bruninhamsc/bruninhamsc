@@ -96,7 +96,7 @@ Habilidade ainda não obtida.
   <tr>
     <td align="center" width="120">
       <a href="https://instagram.com/seuusuario" target="_blank">
-        <img src="(https://cdn-icons-png.flaticon.com/128/1409/1409946.png)" width="40" height="40" alt="Instagram" />
+        <img src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" width="40" height="40" alt="Instagram" />
         <br><b>Instagram</b>
       </a>
     </td>
