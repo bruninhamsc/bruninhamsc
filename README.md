@@ -64,19 +64,16 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | :--- | :---: | :--- |
 | **Link na Bio** | [🔗 Ver online]([https://seu-link.com](https://bruninhamsc.github.io/Link-Na-Bio/) | HTML / CSS / JS |
 | **Projeto EcoSort** | [🔗 Ver online]([https://seu-link.com](https://github.com/bruninhamsc/Projeto-EcoSort.git) | Node.js / Express / MySQL |
-> | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart |
-
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **SESI Guarulhos - Senai Guarulhos-Hermenegildo Campos de Almeida.**
+- 💻 Estou aprendendo **HTML, CSS, JavaScript** e por fora do curso estou estudando **C++ e Java.**
+- 🎯 Meu objetivo é **ser Engenheira de software ou Arquiteta.**
+- 📚 Gosto de aprender sobre ****
+- ✝ Orí mi rí íyẹn émi kó rí...
 
 <br>
 
