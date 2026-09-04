@@ -80,8 +80,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 <!-- Caixas Estilizadas com Estatísticas do GitHub -->
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="150" src="https://i.pinimg.com/originals/69/7c/b0/697cb01edaa30cd11c5c06cc5b924411.gif" alt="Flowers" />
 </div>
 
 ---
