@@ -52,10 +52,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 <summary><b>📱 Mobile</b></summary>
 <br>
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Habilidade ainda não obtida].
 
 </details>
 
@@ -65,9 +62,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto | Preview Online | Tecnologias Usadas |
 | :--- | :---: | :--- |
-| **Link na Bio** | [🔗 Ver online]([https://seu-link.com](https://bruninhamsc.github.io/Link-Na-Bio/)) | HTML / CSS / JS |
-| **Projeto EcoSort** | [🔗 Ver online]([https://seu-link.com](https://github.com/bruninhamsc/Projeto-EcoSort.git)) | Node.js / Express / MySQL |
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart |
+| **Link na Bio** | [🔗 Ver online]([https://seu-link.com](https://bruninhamsc.github.io/Link-Na-Bio/) | HTML / CSS / JS |
+| **Projeto EcoSort** | [🔗 Ver online]([https://seu-link.com](https://github.com/bruninhamsc/Projeto-EcoSort.git) | Node.js / Express / MySQL |
+> | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart |
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
